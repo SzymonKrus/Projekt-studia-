@@ -13,3 +13,5 @@ Analiza Aktywności Sieciowej: Narzędzie do monitorowania aktywności sieciowej
 Konta Użytkowników: Narzędzie do wyświetlania listy zalogowanych użytkowników i ich aktywności.
 
 Monitor Usług Systemowych: Narzędzie do wyświetlania listy działających usług/daemonów w systemie.
+
+Autor Projektu Krus Szymon
